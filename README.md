@@ -17,3 +17,6 @@ random stuff with jetson nanos and TX2s, good for pinouts and small tutorials
 a researcher at a university that posts about robotic controls stuff, machine learning, probability, etc
 
 
+[things in motion](https://things-in-motion.blogspot.com/)
+
+a blog by Richard Parsons who is a lecturer at monash university mostly about explaining electric motors.
