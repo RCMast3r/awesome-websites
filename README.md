@@ -35,3 +35,7 @@ this guy has spent a lot of time presenting a good starting point to venture int
 [embedded bits](https://embeddedbits.org/)
 
 another embedded blog with other tutorials and writeups. has a tutorial on how to get firmware off a device with a jtag port.
+
+[missing semester](https://missing.csail.mit.edu/)
+
+an MIT course that goes through a lot of the tools that are used by devs
