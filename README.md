@@ -20,11 +20,11 @@ a researcher at a university that posts about robotic controls stuff, machine le
 
 a blog by Richard Parsons who is a lecturer at monash university mostly about explaining electric motors.
 
-[deparkes's blog](deparkes.co.uk)
+[deparkes's blog](https://deparkes.co.uk/)
 
 a blog that covers a tutorial of OOMMF (Object Oriented Micromagnetic Framework). and various other topics (vagrant, python, human factors). OOMMF is useful when designing motors.
 
-[papers with code](cs.paperswithcode.com)
+[papers with code](https://cs.paperswithcode.com/)
 
 the url says it all. search papers that also have code attached.
 
@@ -32,9 +32,13 @@ the url says it all. search papers that also have code attached.
 
 this guy has spent a lot of time presenting a good starting point to venture into the world of Real-Time Systems in general. A good lifting off point.
 
-[embedded bits](embeddedbits.org)
+[embedded bits](https://embeddedbits.org/)
 
 another embedded blog with other tutorials and writeups. has a tutorial on how to get firmware off a device with a jtag port.
+
+[missing semester](https://missing.csail.mit.edu/)
+
+an MIT course that goes through a lot of the tools that are used by devs
 
 [a guide to quaternions](https://imadr.github.io/rotations-with-quaternions/)
 
