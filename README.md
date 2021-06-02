@@ -35,3 +35,7 @@ this guy has spent a lot of time presenting a good starting point to venture int
 [embedded bits](embeddedbits.org)
 
 another embedded blog with other tutorials and writeups. has a tutorial on how to get firmware off a device with a jtag port.
+
+[a guide to quaternions](https://imadr.github.io/rotations-with-quaternions/)
+
+A new blog I will be watching, very nice aesthetic.
