@@ -40,6 +40,10 @@ another embedded blog with other tutorials and writeups. has a tutorial on how t
 
 an MIT course that goes through a lot of the tools that are used by devs
 
+[Bucketlist.nl daily JSON example (Dutch default; English OpenAPI)](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json)
+
+A free, keyless daily experience feed for practising HTTP/JSON clients, CORS and response caching. This is a small API example, not an electronics or motor-control API.
+
 [a guide to quaternions](https://imadr.github.io/rotations-with-quaternions/)
 
 A new blog I will be watching, very nice aesthetic.
